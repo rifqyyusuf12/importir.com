@@ -5,8 +5,9 @@
 
 .detail {
   background-color: #02a4ff;
-  margin: 10px 50px;
-  padding: 5px 0px;
+  margin: 10px 10px;
+  padding: 10px 10px;
+  display: inline-flex;
   text-align: center;
   color: #ffffff;
   border-radius: 10px;
@@ -16,8 +17,9 @@
 
 .pending {
   background-color: rgba(255, 99, 71, 0.2);
-  margin: 10px 100px;
-  padding: 5px 0px;
+  margin: 10px 10px;
+  padding: 10px 10px;
+  display: inline-flex;
   text-align: center;
   color: #ff6347;
   border-radius: 10px;
@@ -27,8 +29,9 @@
 
 .paid {
   background-color: #ccffce;
-  margin: 10px 100px;
-  padding: 5px 0px;
+  margin: 10px 10px;
+  padding: 10px 25px;
+  display: inline-flex;
   text-align: center;
   color: #009a06;
   border-radius: 10px;
@@ -38,8 +41,9 @@
 
 .unpaid {
   background-color: #ff9f9f4a;
-  margin: 10px 100px;
-  padding: 5px 0px;
+  margin: 10px 10px;
+  padding: 10px 15px;
+  display: inline-flex;
   text-align: center;
   color: #ef0000;
   border-radius: 10px;
